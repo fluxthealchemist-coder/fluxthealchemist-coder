@@ -21,15 +21,16 @@ I wake at 5:30 AM, stack the day before most people roll over, and I don't postp
 ```
 
 ## Repositories
-| Repo | Purpose |
-|------|---------|
-| `flux-vault` | 🔒 Private agent vault — configs, outputs, memories |
-| `openclaw-skills` | 🎯 AI marketing team skills (research → strategy → build → launch) |
+| Repo | Visibility | Purpose |
+|------|-----------|---------|
+| [openclaw-skills](https://github.com/fluxthealchemist-coder/openclaw-skills) | 🌐 Public | AI marketing team skills (14 skills: research → strategy → build → launch) |
+| [flux-vault](https://github.com/fluxthealchemist-coder/flux-vault) | 🔒 Private | Agent vault — configs, outputs, memories, custom skills |
 
 ## Tools I Use
 - Hermes Agent (Flux persona) — daily AI companion
 - Claude / Gemini — creative and strategic work
 - Meta Marketing API — ad publishing and optimization
+- Bumblebee / Medusa / SkillSpector — security scanning
 
 ## Contact
 - 📧 fluxthealchemist@gmail.com
